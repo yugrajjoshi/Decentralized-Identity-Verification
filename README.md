@@ -1,6 +1,6 @@
 # Decentralized Identity Verification
 
-//updated
+//Good to GO
 
 ## Project Title
 **Decentralized Identity Verification**
